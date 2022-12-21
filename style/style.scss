@@ -58,7 +58,7 @@ body {
   margin-bottom: 3.6rem;
 }
 
-h2 {
+h1 {
   font-family: "Big Shoulders Display", cursive;
   font-size: 4rem;
   font-weight: 700;
@@ -102,7 +102,6 @@ p {
 @media (max-width: 57em) {
   .main {
     max-width: 50rem;
-
     grid-template-columns: 1fr;
   }
 }
