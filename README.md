@@ -13,7 +13,7 @@ Users should be able to:
 
 ### Preview
 
-- Live Site URL: [Click here](https://github.com/hesam-fattahi/3-column-preview-card-component-main)
+- Live Site URL: [Click here](https://hesam-fattahi.github.io/3-column-preview-card-component-main/)
 
 ### Built with
 
